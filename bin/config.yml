@@ -1,0 +1,36 @@
+Lobbys:
+- lobby
+Aliases:
+- hub
+- leave
+- l
+Language: 'en'
+Lang:
+ en:
+  Unkown_Lobby: 'Unkown'
+  Already_Registered: '&cThis server is already registered.'
+  Not_Registered: '&cThis server is not registered.'
+  Successfully_Added: '&aAdded server &f%server%&a to the lobbys.'
+  Successfully_Removed: '&aRemoved server &f%server%&a from the lobbys.'
+  Not_Existing: '&cWarning, the server &f%server%&c does not exist!'
+  Offline: '&cWarning, the server &f%server%&c is offline!'
+  Usage_Lobby: '&cUse "/Lobby [list|add|remove] <Lobby>".'
+  Usage_Lobby_Add: '&cUse "/Lobby add [Lobby]", to add a lobby.'
+  Usage_Lobby_Remove: '&cUse "/Lobby remove [Lobby]", to remove a lobby.'
+  Already_In_Lobby: '&cYou are already in the lobby.'
+  Connecting_To_Lobby: '&aConnecting to lobby...'
+  No_Lobby_Available: '&cNo lobby available.'
+ de:
+  Unkown_Lobby: 'Unbekannt'
+  Already_Registered: '&cDieser Server ist bereits eingetragen.'
+  Not_Registered: '&cDieser Server ist nicht eingetragen.'
+  Successfully_Added: '&aDer Server &f%server%&a wurde zu den Lobbys hinzugefügt.'
+  Successfully_Removed: '&aDer Server &f%server%&a wurde von den Lobbys entfernt.'
+  Not_Existing: '&cAchtung, der Server &f%server%&c existiert nicht!'
+  Offline: '&cAchtung, der Server &f%server%&c ist offline!'
+  Usage_Lobby: '&cBenutze "/Lobby [list|add|remove] <Lobby>".'
+  Usage_Lobby_Add: '&cBenutze "/Lobby add [Lobby]", um eine Lobby hinzuzufügen.'
+  Usage_Lobby_Remove: '&cBenutze "/Lobby remove [Lobby]", um eine Lobby zu entfernen.'
+  Already_In_Lobby: '&cDu bist bereits auf der Lobby.'
+  Connecting_To_Lobby: '&aDu wirst zur Lobby verbunden...'
+  No_Lobby_Available: '&cDerzeit ist keine Lobby verfügbar.'
